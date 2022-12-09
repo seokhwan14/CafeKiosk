@@ -1,4 +1,4 @@
-package com.varxyz.jvx330;
+package com.varxyz.cafe;
 
 import java.text.DateFormat;
 import java.util.Date;
